@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "cv-jonathan-chacko",
     "public": "public",
     "ignore": [
       "firebase.json",
